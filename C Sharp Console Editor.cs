@@ -1,20 +1,9 @@
 /*
 Copyright © 2021 Paitorocxon/ Fabian Müller.
-
-
-
-
 */
 
 
 
-/*
-Copyright © 2021 Paitorocxon/ Fabian Müller.
-
-
-
-
-*/
 using System;
 using System.Collections.Generic;
 using System.Text;
